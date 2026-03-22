@@ -23,7 +23,7 @@
 
 <p align="center">
 <a href="https://linkedin.com/in/sashi-kiran-02bb8a255"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
-<a href="https://github.com/shashikiran14"><img src="https://img.shields.io/badge/GitHub-121011?style=for-the-badge&logo=github&logoColor=white"/></a>
+<a href="https://github.com/shashikiran1-dev"><img src="https://img.shields.io/badge/GitHub-121011?style=for-the-badge&logo=github&logoColor=white"/></a>
 <a href="https://shashi-kiran-devspace.lovable.app"><img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white"/></a>
 <a href="mailto:shashikuruva2004@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
 </p>
@@ -75,12 +75,12 @@
 ## 📊 GitHub Analytics
 
 <p align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=shashikiran14&show_icons=true&theme=transparent"/>
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=shashikiran14&theme=transparent"/>
+<img src="https://github-readme-stats.vercel.app/api?username=shashikiran-dev&show_icons=true&theme=transparent"/>
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=shashikiran-dev&theme=transparent"/>
 </p>
 
 <p align="center">
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=shashikiran14&layout=compact&theme=transparent"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=shashikiran-dev&layout=compact&theme=transparent"/>
 </p>
 
 ---
@@ -91,5 +91,5 @@
 ---
 
 <p align="center">
-<img src="https://visitcount.itsvg.in/api?id=shashikiran14&icon=0&color=0"/>
+<img src="https://visitcount.itsvg.in/api?id=shashikiran-dev&icon=0&color=0"/>
 </p>
